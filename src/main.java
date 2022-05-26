@@ -1,10 +1,10 @@
-import test.Asb;
+
 import java.util.Scanner;
 
 class abd{
     public static void main(String[] args){
       abdo  h1 = new abdo();
-        Asb h2=new Asb();
+
       h1.age=10;
       h1.name();
 //int [] x =new int[3];
